@@ -5,9 +5,13 @@ At Clever Cloud, we want to rethink what a Cloud Service Provider should be for 
 
 **We are looking for engineers who share our mission.**
 
+<br/>
+
 Our most deeply held engineering belief is in the deep understanding of technology. Mastering a domain area can be a life challenge, and there isn’t always a clear path to solve a problem. As if that weren’t enough, we believe that true magic happens when hardware and software are designed to work with one another. Generally speaking, deep understanding is key for good engineering designs.
 
 **We are looking for engineers who like to solve hard problems.**
+
+<br/>
 
 At Clever Cloud, we have simple values we think are important to work together. Differences between people are the driver to an open mindset which turns to be key to engineering : surpass our own belief, understand alternative ways of thinking or rethink the status quo.
 
@@ -58,6 +62,8 @@ At Clever Cloud, we have simple values we think are important to work together. 
 
 **We are looking for engineers who share our values.**
 
+<br/>
+
 We believe that the best basis for assessment of an engineer is not through their performance on an arbitrary oral exam, but rather through their own expression.  That’s why we use interviews to deeply understand the complete engineer who your work indicates you to be.
 
 You should find that these candidate materials will take no more than a couple of hours to gather; please fork or copy this document, and for each section, please use the space provided, expanding into additional pages as necessary. When completed, please export this document as a PDF and submit it with your application.
@@ -68,6 +74,8 @@ You should find that these candidate materials will take no more than a couple o
 
 <h2 style="text-align: center;">Work samples</h2>
 
+<br/>
+
 The ultimate measure of an engineer is our work. Please submit between one to three work samples, providing links if/as necessary. This should be work that best reflects you as an engineer -- work that you are proud of or you feel is otherwise representative of who you aspire to be as an engineer. If this work is entirely proprietary, please describe it as fully as you can, providing necessary context.
 
 
@@ -77,7 +85,7 @@ _Work sample(s)_
 
 ---
 
-<span style="text-decoration:underline;">Writing samples</span>
+<ins>Writing samples</ins>
 
 We have found that the engineers that we like to work with tend to value the written word. What’s an example of writing that you are proud of?  This writing can take a variety of forms, e.g.: \
 
@@ -98,7 +106,7 @@ _Writing sample(s)_
 ---
 
 
-<span style="text-decoration:underline;">Analysis samples</span>
+<ins>Analysis samples</ins>
 
 A significant challenge of engineering is dealing with a system when it doesn't, in fact, work correctly.  When systems misbehave, engineers must flip their disposition:  instead of a creator of their own heaven and earth, they must become a scientist, attempting to reason about a foreign world. Please provide an analysis sample: a written analysis of system misbehavior from some point in your career. If such an analysis is not readily available (as it might not be if one’s work has been strictly proprietary), please recount an incident in which you analyzed system misbehavior, including as much technical detail as you can recall.
 
@@ -109,9 +117,9 @@ _Analysis sample(s)_
 
 ---
 
-<span style="text-decoration:underline;">Presentation samples</span>
+<ins>Presentation samples</ins>
 
-Especially as engineers become more senior, oral presentation of work becomes an important vehicle for communication. If you have given a technical presentation that is publicly available, please provide a link to the slides (and the video if available).  Engineers are often also very self-conscious about their presentations, so don’t worry about any imperfections — and don’t be concerned if it’s brief or informal! If you don’t have a publicly available presentation, please describe a topic on which you have presented in the past. \
+Especially as engineers become more senior, oral presentation of work becomes an important vehicle for communication. If you have given a technical presentation that is publicly available, please provide a link to the slides (and the video if available).  Engineers are often also very self-conscious about their presentations, so don’t worry about any imperfections — and don’t be concerned if it’s brief or informal! If you don’t have a publicly available presentation, please describe a topic on which you have presented in the past.
 
 
 _Presentation sample(s)_
