@@ -1,7 +1,7 @@
 
 <h1 style="text-align: center;">Thank you for your interest in Clever Cloud!</h1>
 
-At Clever Cloud, we want to rethink what a Cloud Service Provider should be for businesses and developers around the world. We deal with complexity so that our customers don’t have to. Our mission is simple : Build a powerful, versatile yet simple to use, Cloud Platform.
+At Clever Cloud, we want to rethink what a Cloud Service Provider should be for businesses and developers around the world. We deal with complexity so that our customers don’t have to. Our mission is simple: Build a powerful, versatile yet simple to use, Cloud Platform.
 
 **We are looking for engineers who share our mission.**
 
@@ -13,9 +13,7 @@ Our most deeply held engineering belief is in the deep understanding of technolo
 
 <br/>
 
-At Clever Cloud, we have simple values we think are important to work together. Differences between people are the driver to an open mindset which turns to be key to engineering : surpass our own belief, understand alternative ways of thinking or rethink the status quo.
-
- 
+At Clever Cloud, we have simple values we think are important to work together. Differences between people are the driver to an open mindset which turns to be key to engineering: surpass our own belief, understand alternative ways of thinking or rethink the status quo.
 
 
 <div align="center">
@@ -64,13 +62,37 @@ At Clever Cloud, we have simple values we think are important to work together. 
 
 <br/>
 
-We believe that the best basis for assessment of an engineer is not through their performance on an arbitrary oral exam, but rather through their own expression.  That’s why we use interviews to deeply understand the complete engineer who your work indicates you to be.
+We believe that the best basis for assessment of an engineer is not through their performance on an arbitrary oral exam, but rather through their own expression.  That’s why we use interviews to deeply understand the complete engineer who your work indicates you to be. 
 
-You should find that these candidate materials will take no more than a couple of hours to gather; please fork or copy this document, and for each section, please use the space provided, expanding into additional pages as necessary. When completed, please export this document as a PDF and submit it with your application.
+You should find that these candidate materials will take no more than a couple of hours to gather; please fork or clone this document, and for each section, please use the space you need, expanding into additional pages as necessary. When completed, please export this document as a PDF and submit it with your application at jobs _AT_ clever-cloud.com. Note we mostly work use english for written work, unless it's a real issue for you, please use english to answer.
 
 <br/><br/>
 
 
+
+<h2 style="text-align: center;">Questionnaire</h2>
+
+
+Please answer the following questions, using as much space as you need. All of these questions are important, but the final question is probably the most important one; take your time in answering it!
+
+_What work have you found most technically challenging in your career and why?_
+
+_What work have you done that you were particularly proud of and why?_
+
+_When have you been happiest in your professional career and why?_
+
+_When have you been unhappiest in your professional career and why?_
+
+_Regarding CleverCloud's values, is there any that you oppose?_
+
+_For a pair of CleverCloud's values, describe a time in which the two values came into tension for you or your work, and how you resolved it._
+
+_What do you think should be improved on our product?_
+
+_Why do you want to work for CleverCloud?_
+
+
+<br/><br/>
 
 <h2 style="text-align: center;">Work samples</h2>
 
@@ -126,27 +148,3 @@ _Presentation sample(s)_
 
 
 <br/><br/>
-
-
-<h2 style="text-align: center;">Questionnaire</h2>
-
-
-Please answer the following questions, using as much space as you need. All of these questions are important, but the final question is probably the most important one; take your time in answering it!
-
-_What work have you found most technically challenging in your career and why?_
-
-_What work have you done that you were particularly proud of and why?_
-
-_When have you been happiest in your professional career and why?_
-
-_When have you been unhappiest in your professional career and why?_
-
-_For one of CleverCloud's values, describe an example of how it was reflected in a particular body of your work._
-
-_For one of CleverCloud's values, describe an example of how it was violated in your organization or work._
-
-_For a pair of CleverCloud's values, describe a time in which the two values came into tension for you or your work, and how you resolved it._
-
-_What do you think should be improved on our product?_
-
-_Why do you want to work for CleverCloud?_
