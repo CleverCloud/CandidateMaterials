@@ -64,7 +64,7 @@ At Clever Cloud, we have simple values we think are important to work together. 
 
 We believe that the best basis for assessment of an engineer is not through their performance on an arbitrary oral exam, but rather through their own expression.  That’s why we use interviews to deeply understand the complete engineer who your work indicates you to be. 
 
-You should find that these candidate materials will take no more than a couple of hours to gather; please fork or clone this document, and for each section, please use the space you need, expanding into additional pages as necessary. When completed, please export this document as a PDF and submit it with your application at jobs _AT_ clever-cloud.com. Note we mostly work use english for written work, unless it's a real issue for you, please use english to answer.
+You should find that these candidate materials will take no more than a couple of hours to gather; please fork or clone this document, and for each section, please use the space you need, expanding into additional pages as necessary. When completed, please export this document as a PDF and submit it with your application at jobs _AT_ clever-cloud.com. Note we mostly use english for written work, unless it's a real issue for you, please use english to answer.
 
 <br/><br/>
 
